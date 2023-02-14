@@ -3,10 +3,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Do Check My YouTube Channel <a href='https://www.youtube.com/channel/UCknAgO0AdG61Yd1G7D1Arxg'>Backslash Flutter</a>
-- 🌱 I’m currently learning Flutter and Android
+- 🔭 Do Check My Projects
+- 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on open source projects
-- 📫 How to reach me: backslash.flutter@gmail.com
+- 📫 How to reach me: yavuzyasin.eem@gmail.com
 
  
  📊 Github Stats 
